@@ -57,7 +57,7 @@ our community:
   * Posting or threatening to post other people's personally identifying
     information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation,
-    race, religion, or disability.
+    race, religion, politics, or disability.
   * Inappropriate photography or recording.
   * Inappropriate physical contact. You should have someone's consent before
     touching them.
