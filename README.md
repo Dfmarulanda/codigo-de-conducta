@@ -53,7 +53,7 @@ comunitarios sean de uso compartido con los miembros del público; por favor ser
 respetuoso con todos aquellos que los frecuentan.
 
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos
-relacionados con el género, la orientación sexual, raza, religión, discapacidad; 
+relacionados con el género, la orientación sexual, raza, religión, política, discapacidad; 
 uso inadecuado de desnudos y / o imágenes sexuales en espacios públicos 
 (incluyendo la presentación diapositivas); intimidación deliberada, acecho o 
 seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de
